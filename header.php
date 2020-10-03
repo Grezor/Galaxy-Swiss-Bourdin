@@ -30,8 +30,8 @@
                 
             <!-- connexion / register -->
             <ul id="ident" class="member-ident">
-                <li class="member member-register"><a class="awesome white" href="connexion/register.html">S'inscrire</a></li>
-                <li class="member member-login"><a class="awesome blue" href="connexion/account.html">Connexion</a></li>
+                <li class="member member-register"><a class="awesome white" href="connexion/register.php">S'inscrire</a></li>
+                <li class="member member-login"><a class="awesome blue" href="connexion/account.php">Connexion</a></li>
             </ul>
             </nav>
         </div>
