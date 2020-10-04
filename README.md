@@ -65,12 +65,15 @@ The site does not have an api, this is a showcase site.
 - [ ] Add picture
 - [ ] creation administration
 - [ ] add article content
-
+- [ ] create file sql
+- [ ] clean folders and files
 
 ## Project status
 ✔️ - the application works correctly
+
 ## Deployment 
-[online](https://app-pharmacie.herokuapp.com/)
+[online](https://app-pharmacie.herokuapp.com/) - Heroku [more infos](https://www.heroku.com/what) 
+
 ## Contribute
 If you encounter an error, do not hesitate to create a way out.
 By detailing the problem so that I can solve it as soon as possible.
